@@ -1,0 +1,7 @@
+Line 1: Line one with extra spaces.
+Line 2: Second line, spaces are the same.
+Line 3: Third
+Line 4:
+Line 5: Fourth, short.
+Line 6: Fifth, without extra spaces.
+Line 7: Sixth with a lot of spaces at the beginning and end.
